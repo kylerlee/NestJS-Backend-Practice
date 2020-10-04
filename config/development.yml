@@ -1,0 +1,8 @@
+db:
+  host: ''
+  username: ''
+  password: ''
+  synchronize: true
+
+jwt:
+  secret: ''

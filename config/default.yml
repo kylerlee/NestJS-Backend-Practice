@@ -1,0 +1,10 @@
+server:
+  port: 0000
+
+db:
+  type: ''
+  port: 0000
+  database: ''
+
+jwt:
+  expiresIn: 0000
