@@ -1,6 +1,6 @@
 # NestJS-Server-App
 
-A development practice of server application using NestJS, JWT, TypeORM, Jest and PostgreSQL.
+A development practice of server application development using NestJS, JWT, TypeORM, Jest and PostgreSQL.
 
 ## Getting Started
 
